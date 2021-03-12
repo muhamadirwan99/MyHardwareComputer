@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Hardware Computer</string>
+    <string name="hardware_name">Nama Hardware</string>
+    <string name="detail">Detail Hardware</string>
+    <string name="email">muhamadirwan99@gmail.com</string>
+    <string name="name_profile">Muhamad Irwan Ramadhan</string>
+    <string name="hardware_explain">Penjelasan Hardware</string>
+    <string name="profile">Profile</string>
+    <string name="my_hardware_computer">My Hardware Computer</string>
+    <string name="credit_splash">Designed by Muhamad Irwan Ramadhan</string>
+</resources>
